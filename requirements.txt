@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+openai
+tiktoken
+pypdf
+umap-learn
