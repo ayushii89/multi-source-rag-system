@@ -5,3 +5,4 @@ openai
 tiktoken
 pypdf
 umap-learn
+plotly
