@@ -16,3 +16,5 @@ pandas
 requests
 beautifulsoup4
 lxml
+chromadb==0.4.24
+protobuf==3.20.3
