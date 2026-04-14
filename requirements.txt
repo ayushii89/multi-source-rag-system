@@ -1,8 +1,17 @@
 streamlit
 langchain
+langchain-community
 faiss-cpu
 openai
 tiktoken
 pypdf
 umap-learn
 plotly
+python-dotenv
+scikit-learn
+numpy
+scipy
+pandas
+requests
+beautifulsoup4
+lxml
